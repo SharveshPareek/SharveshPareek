@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SharveshPareek
-- 👀 I have expeiance in Mobile Application Development (Android), UiPath automation
+- 🏢 I am working as a Data Analyst, Specailizing in GenAI, LLMs
+- 👀 I have pervious experiences in Mobile Application Development (Android), UiPath automation
 - ✨ Ex - UiPath Student Developer Champion
-- 💞️ I’m looking to collaborate with everyone with whome i can learn and lead the way togethere
+- 💞️ I’m looking to collaborate with everyone with whom I can learn and lead the way togethere
 - 📫 How to reach me sharveshpareek@gmail.com
 
 <!---
